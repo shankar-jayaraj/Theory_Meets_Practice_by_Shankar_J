@@ -17,7 +17,7 @@ Shankar J. (2024). [Theory_Meets_Practice_by_Shankar_J] (Versiopn 1.01). GitHub 
 
 ### BibTeX
 ```bibtex
-@misc{YourName_RepoName_Year,
+@misc{Shankar_J_Theory_Meets_Practice_2024,
   author = Shankar J,
   title = {Theory_Meets_Practice_by_Shankar_J},
   year = {2024},
