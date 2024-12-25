@@ -11,11 +11,12 @@ This work is licensed under the [Creative Commons Attribution-NonCommercial-Shar
 If you use or reference this work, please cite it as follows:
 
 ### APA Format:
-Shankar J. (2024). [Theory_Meets_Practice_by_Shankar_J] (1). GitHub Repository. Available at https://github.com/shankar-jayaraj/Theory_Meets_Practice_by_Shankar_J
-
+```bibtex
+Shankar J. (2024). [Theory_Meets_Practice_by_Shankar_J] (Versiopn 1.01). GitHub Repository. Available at https://github.com/shankar-jayaraj/Theory_Meets_Practice_by_Shankar_J
+```
 
 ### BibTeX
-
+```bibtex
 @misc{YourName_RepoName_Year,
   author = Shankar J,
   title = {Theory_Meets_Practice_by_Shankar_J},
@@ -23,6 +24,5 @@ Shankar J. (2024). [Theory_Meets_Practice_by_Shankar_J] (1). GitHub Repository. 
   howpublished = {GitHub Repository},
   url = {https://github.com/shankar-jayaraj/Theory_Meets_Practice_by_Shankar_J}
 }
-
-
+```
 
