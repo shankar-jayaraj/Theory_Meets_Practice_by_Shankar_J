@@ -7,6 +7,11 @@ This repository contains content created by Shankar J. Please adhere to the lice
 ## License
 This work is licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
+
+## Topics - Application
+1. TMP_001.ipynb: Eigen values, Eigen vectors & Singular Value Decomposition - Image Compressions
+
+
 ## Citation
 If you use or reference this work, please cite it as follows:
 
