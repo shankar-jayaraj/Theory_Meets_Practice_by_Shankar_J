@@ -12,7 +12,7 @@ This work is licensed under the [Creative Commons Attribution-NonCommercial-Shar
 
 # Topics - Application
 1. Eigenvalues, Eigenvectors & Singular Value Decomposition - Image Compression - TMP_001.ipynb
-
+2. Coming soon - based on majority of votes / requests
 
 ### Citation
 If you use or reference this work, please cite it as follows:
