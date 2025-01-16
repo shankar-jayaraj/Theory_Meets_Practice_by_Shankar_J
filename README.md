@@ -11,7 +11,7 @@ This work is licensed under the [Creative Commons Attribution-NonCommercial-Shar
 
 
 ## Topics - Application
-1. TMP_001.ipynb: Eigen values, Eigen vectors & Singular Value Decomposition - Image Compressions
+1. Eigen values, Eigen vectors & Singular Value Decomposition - Image Compressions - TMP_001.ipynb
 
 
 ## Citation
