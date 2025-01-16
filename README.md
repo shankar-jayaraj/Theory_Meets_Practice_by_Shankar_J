@@ -2,7 +2,7 @@
 
 # Theory_Meets_Practice_by_Shankar_J
 
-This repository contains content created by Shankar J. 
+This repository contains content created by [Shankar J](https://www.linkedin.com/in/drshankarj/) for Theory meets practice series.
 
 Please adhere to the license and citation requirements when using or sharing this work.
 
