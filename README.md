@@ -6,13 +6,12 @@ This repository contains content created by [Shankar J](https://www.linkedin.com
 
 Please adhere to the license and citation requirements when using or sharing this work.
 
-### License
-This work is licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/).
-
-
 # Topics - Application
 1. Eigenvalues, Eigenvectors & Singular Value Decomposition - Image Compression - TMP_001.ipynb
 2. Coming soon - based on majority of votes / requests
+
+### License
+This work is licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
 ### Citation
 If you use or reference this work, please cite it as follows:
