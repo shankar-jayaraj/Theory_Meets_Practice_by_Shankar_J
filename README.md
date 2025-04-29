@@ -37,7 +37,3 @@ Shankar J. (2024). [Theory_Meets_Practice_by_Shankar_J] (Version 1.01). GitHub R
   url = {https://github.com/shankar-jayaraj/Theory_Meets_Practice_by_Shankar_J}
 }
 ```
-
-## Content
-
-TMP_001 : Eigen value & Eigen vectors - Singular Value Decomposition
