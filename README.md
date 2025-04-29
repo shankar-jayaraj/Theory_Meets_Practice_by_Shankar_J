@@ -9,7 +9,7 @@ Please adhere to the license and citation requirements when using or sharing thi
 
 | #  | Topics                                             | Application         | File             |
 |----|----------------------------------------------------|---------------------|------------------|
-| 1  | Eigenvalues, Eigenvectors & Singular Value Decomposition | Image Compression   | TMP_001.ipynb    |
+| 1  | Eigenvalues, Eigenvectors & Singular Value Decomposition | Image Compression   | [TMP_001.ipynb](https://github.com/shankar-jayaraj/Theory_Meets_Practice_by_Shankar_J/blob/main/TMP_001.ipynb)    |
 | 2  | Coming soon                                        | Based on majority of votes / requests |                  |
 
 
