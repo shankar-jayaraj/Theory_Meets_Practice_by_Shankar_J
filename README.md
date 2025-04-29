@@ -2,19 +2,20 @@
 
 # Theory_Meets_Practice_by_Shankar_J
 
-<<<<<<< HEAD
+
 This repository contains content created by [Shankar J](https://www.linkedin.com/in/drshankarj/).  
 Visit his website [here](https://shankar-jayaraj.github.io/)
 Please adhere to the license and citation requirements when using or sharing this work.
 =======
 This repository contains content created by [Shankar J](https://www.linkedin.com/in/drshankarj/) for Theory meets practice series.
->>>>>>> 90f4bba1e508548548767f33d09391c3f3d8e9be
 
 Please adhere to the license and citation requirements when using or sharing this work.
 
-# Topics - Application
-1. Eigenvalues, Eigenvectors & Singular Value Decomposition - Image Compression - TMP_001.ipynb
-2. Coming soon - based on majority of votes / requests
+| #  | Topics                                             | Application         | File             |
+|----|----------------------------------------------------|---------------------|------------------|
+| 1  | Eigenvalues, Eigenvectors & Singular Value Decomposition | Image Compression   | TMP_001.ipynb    |
+| 2  | Coming soon                                        | Based on majority of votes / requests |                  |
+
 
 
 
